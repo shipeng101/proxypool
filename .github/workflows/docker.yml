@@ -14,8 +14,8 @@ jobs:
       - name: Build and push Docker images
         uses: docker/build-push-action@v1.1.0
         with:
-          username: zu1k
+          username: shipeng101
           password: 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
           registry: docker.pkg.github.com
-          repository: zu1k/proxypool/proxypo
+          repository: shipeng101/proxypool/proxypo
           tag_with_ref: true
