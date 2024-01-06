@@ -17,5 +17,5 @@ jobs:
           username: zu1k
           password: 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
           registry: docker.pkg.github.com
-          repository: zu1k/proxypool/proxypool
+          repository: zu1k/proxypool/proxypo
           tag_with_ref: true
